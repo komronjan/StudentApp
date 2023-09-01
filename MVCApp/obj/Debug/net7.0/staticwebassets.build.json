@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "bRVhusm+xg1G2R30U5SnMjvg4plQHUY5EwZUtB9jh0E=",
+  "Source": "MVCApp",
+  "BasePath": "_content/MVCApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\StudentApp\\MVCApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MVCApp.styles.css",
+      "SourceId": "MVCApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\StudentApp\\MVCApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MVCApp",
+      "RelativePath": "MVCApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\StudentApp\\MVCApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MVCApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Desktop\\StudentApp\\MVCApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVCApp.bundle.scp.css",
+      "SourceId": "MVCApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\StudentApp\\MVCApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MVCApp",
+      "RelativePath": "MVCApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Asus\\Desktop\\StudentApp\\MVCApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVCApp.bundle.scp.css"
+    }
+  ]
+}

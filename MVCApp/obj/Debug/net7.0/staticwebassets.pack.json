@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\StudentApp\\MVCApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVCApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVCApp.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MVCApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MVCApp.props",
+      "PackagePath": "build\\MVCApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCApp.props",
+      "PackagePath": "buildMultiTargeting\\MVCApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MVCApp.props",
+      "PackagePath": "buildTransitive\\MVCApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
